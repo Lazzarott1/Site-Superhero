@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(200, 200, 200);
+    color: rgb(20, 20, 20);
+}
+img {
+    height: 300px;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(68, 68, 68);
+    background-color:rgb(160, 160, 160) ;
+    padding: 20px;
+    border:2px solid rgb(88, 88, 88);
+    border-radius: 20px; 
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+footer p{
+    font-family:'Segoe UI', Tahoma, sans-serif;
+}
