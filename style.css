@@ -1,6 +1,9 @@
 body {
     background-color: rgb(200, 200, 200);
-    color: rgb(20, 20, 20);
+    color: rgb(148, 148, 148);
+    background-image: url("assets/backgroundimg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 img {
     height: 300px;
@@ -19,4 +22,14 @@ h1 {
 }
 footer p{
     font-family:'Segoe UI', Tahoma, sans-serif;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
