@@ -4,6 +4,7 @@ body {
     background-image: url("assets/backgroundimg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     font-size: large;
 }
 img {
@@ -57,7 +58,7 @@ div {
   padding: 10px;
   background-color: rgb(207, 206, 206);
   color: black;
-  height: 630px;
+  height: 400px;
 
 }
 .bloconoticia {
@@ -65,7 +66,7 @@ div {
     gap: 200px;
 }
 .titulo {
-    height: 610px;
+    height: 380px;
     width: 200px;
   padding: 10px;
     color: black;
