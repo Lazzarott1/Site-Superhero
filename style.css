@@ -21,6 +21,7 @@ h1 {
     font-size: 48px;
     letter-spacing: 2px;
 }
+
 footer p{
     font-family:'Segoe UI', Tahoma, sans-serif;
 }
@@ -39,17 +40,20 @@ div {
   gap: 200px;              
 }
 .noticia {
-    width: 711px;
+    width: 810px;
   padding: 10px;
   background-color: rgb(0, 0, 0);
   color: rgb(208, 255, 0);
 }
 .blocotexto {
   display: flex;          
+}
+.blocotexto2 {
+  display: flex;          
                
 }
 .texto {
-    width: 470px;
+    width: 570px;
   padding: 10px;
   background-color: rgb(207, 206, 206);
   color: black;
